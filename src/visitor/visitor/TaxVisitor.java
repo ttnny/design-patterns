@@ -1,8 +1,8 @@
 package visitor.visitor;
 
-import designPatterns.visitor.visitable.Book;
-import designPatterns.visitor.visitable.Clothing;
-import designPatterns.visitor.visitable.Toy;
+import visitor.visitable.Book;
+import visitor.visitable.Clothing;
+import visitor.visitable.Toy;
 
 public class TaxVisitor implements Visitor {
     @Override

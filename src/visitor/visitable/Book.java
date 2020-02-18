@@ -1,6 +1,6 @@
 package visitor.visitable;
 
-import designPatterns.visitor.visitor.Visitor;
+import visitor.visitor.Visitor;
 
 public class Book implements Visitable {
     private double price;

@@ -1,10 +1,10 @@
 package visitor.test;
 
-import designPatterns.visitor.visitable.Book;
-import designPatterns.visitor.visitable.Clothing;
-import designPatterns.visitor.visitable.Toy;
-import designPatterns.visitor.visitor.HolidaySaleVisitor;
-import designPatterns.visitor.visitor.TaxVisitor;
+import visitor.visitable.Book;
+import visitor.visitable.Clothing;
+import visitor.visitable.Toy;
+import visitor.visitor.HolidaySaleVisitor;
+import visitor.visitor.TaxVisitor;
 
 public class VisitorDriver {
     public static void main(String[] args) {

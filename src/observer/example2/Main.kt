@@ -1,5 +1,6 @@
 package designPatterns.observer.example2
 
+/*
 import javafx.beans.property.SimpleBooleanProperty
 import javafx.beans.property.SimpleDoubleProperty
 import javafx.beans.property.SimpleIntegerProperty
@@ -24,4 +25,4 @@ fun main() {
     //react!
     metrics.codeCoverage.set(.5)
     metrics.codeCoverage.set(.6)
-}
+}*/
